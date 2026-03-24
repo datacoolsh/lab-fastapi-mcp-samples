@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__fastapimcp__get_users",
+      "mcp__fastapimcp__create_user"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "memory",
+    "github",
+    "fastapimcp"
+  ]
+}
